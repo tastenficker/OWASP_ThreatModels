@@ -5,7 +5,11 @@
     "description": "Software App Development"
   },
   "detail": {
-    "contributors": [],
+    "contributors": [
+      {
+        "name": "Tastenficker"
+      }
+    ],
     "diagrams": [
       {
         "title": "Threat Model Diagram 1",
